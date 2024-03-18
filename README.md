@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Page!
 
-[Hello there](https://youtu.be/rEq1Z0bjdwc?si=nVBTC4Iwzjhx8hsB) 👋! I'm Robin, an applied math PhD student at the Korteweg-de Vries Institute of the University of Amsterdam. Welcome to my corner of the internet where I share my projects and the occasional fun fact. 
+[Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋! I'm Robin, an applied math PhD student at the Korteweg-de Vries Institute of the University of Amsterdam. Welcome to my corner of the internet where I share my projects and the occasional fun fact. 
 
 ### Contact Information
 
