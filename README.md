@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Page!
 
-Hello there 👋! I'm Robin, an applied math PhD student at the Korteweg-de Vries Institute of the University of Amsterdam. Welcome to my corner of the internet where I share my projects and the occasional fun fact. 
+[Hello there](https://youtu.be/rEq1Z0bjdwc?si=nVBTC4Iwzjhx8hsB) 👋! I'm Robin, an applied math PhD student at the Korteweg-de Vries Institute of the University of Amsterdam. Welcome to my corner of the internet where I share my projects and the occasional fun fact. 
 
 ### Contact Information
 
@@ -35,11 +35,9 @@ I am deeply fascinated by the intersection of numerical methods for PDEs and mac
 
 Currently empty, but should not be for all too long!
 
-### Fun Fact
+### ⚡Fun Fact⚡
 
 Did you know that capybaras have a top speed of about 35 km/h?
-
-
 
 <!--
 **Rsmeets99/Rsmeets99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
