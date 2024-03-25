@@ -22,7 +22,7 @@ I am deeply fascinated by the intersection of numerical methods for PDEs and mac
 - **Status:** Finalising first draft of paper.
 - **Github Repository:** Will be made public after some cleaning.
 - **Paper:** Will be added when on arXiv.
-- **Co-authors/Contributors:** [Koondanibha Mitra](www.koondi.net), [Stefanie Sonner](https://www.math.ru.nl/~ssonner/) and [Sorin Pop](https://www.uhasselt.be/en/who-is-who/sorin-pop).
+- **Co-authors/Contributors:** [Koondanibha Mitra](https://www.koondi.net/), [Stefanie Sonner](https://www.math.ru.nl/~ssonner/) and [Sorin Pop](https://www.uhasselt.be/en/who-is-who/sorin-pop).
 
 #### Least squares solvers for PDEs: inhomogeneous boundary conditions, and application with machine learning
 
