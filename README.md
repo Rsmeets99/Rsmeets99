@@ -18,18 +18,18 @@ I am deeply fascinated by the intersection of numerical methods for PDEs and mac
 #### Numerical schemes for singular and degenerate evolution systems arising in mathematical models for biofilm growth
 
 - **Description:** This paper investigates a robust and structure-preserving time-discretisation and linearisation schemes for singular and degenerate evolution systems arising in mathematical models for biofilm growth. The newly introduced numerical scheme has been implemented in Python using FEniCSx to validate the scheme.
-- **Technologies Used:** Python and FEniCSx
+- **Technologies Used:** Python and FEniCSx.
 - **Status:** Finalising first draft of paper.
-- **Github repository:** Will be made public after some cleaning.
-- **Link to paper:** Will be added when on arXiv.
+- **Github Repository:** Will be made public after some cleaning.
+- **Paper:** Will be added when on arXiv.
 
 #### Least squares solvers for PDEs: inhomogeneous boundary conditions, and application with machine learning
 
 - **Description:** This paper introduces new well-posed least squares formulations for solving certain classes of PDEs (including the Poisson equation). Furthermore, it covers proofs and ways of implemeting these formulation for FEM and machine learning methods. My contributions lie with the part concerning machine learning, and the implementation of the machine learning methods in Python.
 - **Technologies Used:** Python and PyTorch.
 - **Status:** Writing first draft of paper.
-- **Github repository:** Will be made public after submitting.
-- **Link to paper:** Will be added when on arXiv.
+- **Github Repository:** Will be made public after submitting.
+- **Paper:** Will be added when on arXiv.
 
 ### Past Projects
 
