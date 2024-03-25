@@ -22,14 +22,16 @@ I am deeply fascinated by the intersection of numerical methods for PDEs and mac
 - **Status:** Finalising first draft of paper.
 - **Github Repository:** Will be made public after some cleaning.
 - **Paper:** Will be added when on arXiv.
+- **Co-authors/Contributors:** [Koondanibha Mitra](www.koondi.net), [Stefanie Sonner](https://www.math.ru.nl/~ssonner/) and [Sorin Pop](https://www.uhasselt.be/en/who-is-who/sorin-pop).
 
 #### Least squares solvers for PDEs: inhomogeneous boundary conditions, and application with machine learning
 
-- **Description:** This paper introduces new well-posed least squares formulations for solving certain classes of PDEs (including the Poisson equation). Furthermore, it covers proofs and ways of implemeting these formulation for FEM and machine learning methods. My contributions lie with the part concerning machine learning, and the implementation of the machine learning methods in Python.
+- **Description:** This paper introduces new well-posed least squares formulations for solving certain classes of PDEs (including the Poisson equation). Furthermore, it covers proofs and ways of implemeting these formulation for FEM and machine learning methods.
 - **Technologies Used:** Python and PyTorch.
 - **Status:** Writing first draft of paper.
 - **Github Repository:** Will be made public after submitting.
 - **Paper:** Will be added when on arXiv.
+- **Co-authors/Contributors:** [Harald Monsuur](https://www.uva.nl/profiel/m/o/h.monsuur/h.monsuur.html) and [Rob Stevenson](https://staff.fnwi.uva.nl/r.p.stevenson/).
 
 ### Past Projects
 
