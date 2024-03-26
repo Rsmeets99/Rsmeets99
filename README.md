@@ -8,6 +8,8 @@
 
 - **Email:** robinsmeets99@gmail.com / r.k.h.smeets@uva.nl
 - **LinkedIn:** [link](www.linkedin.com/in/robinsmeets99)
+- **ORCID:** [link](https://orcid.org/0009-0007-0015-4105)
+- **ResearchGate:** [link](https://www.researchgate.net/profile/Robin-Smeets-2)
 
 ### Research Interests
 
